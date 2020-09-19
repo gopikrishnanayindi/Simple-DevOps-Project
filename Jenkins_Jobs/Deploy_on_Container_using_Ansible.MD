@@ -1,6 +1,5 @@
 # Deploy on a docker container using Ansible
 # *Jenkins Job name:* `Deploy_on_Container_using_ansible`
-
 ### Pre-requisites
 
 1. Jenkins server 
